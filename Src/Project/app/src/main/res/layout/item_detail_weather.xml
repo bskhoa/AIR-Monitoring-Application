@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/detail_weather_card"
+    app:cardCornerRadius="15dp"
+    android:layout_marginTop="8dp"
+    android:background="@drawable/custom_flat_shape"
+    android:backgroundTint="@color/itemBackground">
+    <!-- Health status -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+            <!-- Place status -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_weather_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/default_place"
+                        android:layout_marginRight="5dp"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/textSizeMedium" />
+
+                    <TextView
+                        android:id="@+id/txt_weather_unit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="*"
+                        android:textColor="@color/textColor"
+                        android:textSize="@dimen/textSizeMedium" />
+                </LinearLayout>
+                <TextView
+                    android:id="@+id/txt_weather_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2.4"
+                    android:textColor="@color/textColor"
+                    android:textSize="@dimen/textSizeSmall" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="@string/iten_updated_at"
+                        android:textColor="@color/subTextColor"
+                        android:textSize="@dimen/textSizeSmall"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+id/tv_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="*"
+                        android:textColor="@color/subTextColor"
+                        android:textSize="@dimen/textSizeSmall"
+                        android:textStyle="italic" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

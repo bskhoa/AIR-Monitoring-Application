@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#ECECEC</color>
+    <color name="colorButtonAtHome">#0E1822</color>
+
+    <color name="textColor">#33557E</color>
+    <color name="subTextColor">#92506B88</color>
+
+    <!--    app theme colors-->
+    <color name="green_primary">#49734c</color>
+    <color name="green_secondary">#dde3df</color>
+    <color name="green_faded">#556a5f</color>
+    <color name="background">#F5F5F5</color>
+
+    <color name="silver">#E8E8E8</color>
+
+    <color name="grey_background">#DDDDDD</color>
+
+    <!--    status colors-->
+    <color name="good">#B0D9B1</color>
+    <color name="bad">#DF9166</color>
+
+    <!--    text color-->
+    <color name="white_text">#F5F7F8</color>
+    <color name="faded_text">#A7B0B2</color>
+    <color name="weather_status_text">#464646</color>
+    <color name="itemBackground">#F1F1F1</color>
+    <color name="goodColor">#00FFD9</color>
+    <color name="primaryColor">#0073A1</color>
+    <color name="primaryVariantColor">#0186C3</color>
+    <color name="badColor">#FFBF00</color>
+    <color name="badIconColor">#D17F04</color>
+
+</resources>
