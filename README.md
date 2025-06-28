@@ -60,6 +60,33 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 ### Demo
 [![Xem Demo](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/c8npTkTPE_I)
 
+###  Danh sách thành viên
+<table style="width:100%">
+<tr>
+    <th> <p align="center">
+       20520194
+    </p> </th>
+    <th> <p align="center">
+       Đặng Quốc Hùng
+    </p> </th>
+</tr>
+<tr>
+    <th> <p align="center">
+       20521461
+    </p> </th>
+    <th> <p align="center">
+       Bùi Sĩ Khoa
+    </p> </th>
+</tr>
+<tr>
+    <th> <p align="center">
+       20520746
+    </p> </th>
+    <th> <p align="center">
+       Đỗ Huỳnh Mỹ Tâm
+    </p> </th>
+</tr>
+
 ## 👊 Ủng hộ AIR Monitoring Application
 - Bằng cách ⭐️ repo này nhé! ❤️
 ---
