@@ -16,23 +16,17 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 
 ## Hình ảnh
 ### Đăng ký / Đăng nhập 
-<p align="center">
-  <a href="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/sign_in.mp4">View 1</a>
-</p>
 
 <table style="width:100%">
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Air_meteo.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 1</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Sign_in.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/User.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 3</a>
     </p> </th>
 </tr>
 </table>
@@ -56,33 +50,25 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_1.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 1</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_2.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_3.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 3</a>
     </p> </th>
 </tr>
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Feature_1.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 1</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Feature_2.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
 </tr>
 </table>
 
-### Demo
-<p align="center">
-  <a href="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/video.mp4">View 1</a>
-</p>
+[![Xem Demo](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## 👊 Ủng hộ AIR Monitoring Application
 - Bằng cách ⭐️ repo này nhé! ❤️
