@@ -57,7 +57,8 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 </tr>
 </table>
 
-[![Xem Demo](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+### Demo
+[![Xem Demo](https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Air_meteo.png)](https://youtu.be/c8npTkTPE_I)
 
 ## 👊 Ủng hộ AIR Monitoring Application
 - Bằng cách ⭐️ repo này nhé! ❤️
