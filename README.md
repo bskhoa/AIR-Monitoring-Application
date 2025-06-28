@@ -86,6 +86,7 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
        Đỗ Huỳnh Mỹ Tâm
     </p> </th>
 </tr>
+</table>
 
 ## 👊 Ủng hộ AIR Monitoring Application
 - Bằng cách ⭐️ repo này nhé! ❤️
