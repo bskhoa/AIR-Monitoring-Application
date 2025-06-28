@@ -46,7 +46,7 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 </tr>
 </table>
 
-<table style="width:80%">
+<table style="width:30%">
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Feature_1.png"><br>
