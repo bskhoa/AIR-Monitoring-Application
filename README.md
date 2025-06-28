@@ -47,6 +47,9 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
        <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
 </tr>
+</table>
+
+<table style="width:100%">
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_1.png"><br>
