@@ -36,31 +36,17 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_1.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 1</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_3.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_4.png"><br>
-       <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
 </tr>
 </table>
 
 <table style="width:100%">
-<tr>
-    <th> <p align="center">
-       <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_1.png"><br>
-    </p> </th>
-    <th> <p align="center">
-       <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_2.png"><br>
-    </p> </th>
-    <th> <p align="center">
-       <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Chart_3.png"><br>
-    </p> </th>
-</tr>
 <tr>
     <th> <p align="center">
        <img src="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/Img/Feature_1.png"><br>
