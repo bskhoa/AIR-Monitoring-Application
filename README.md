@@ -35,7 +35,8 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
        <a href="https://github.com/bskhoa/Clothnest">View 3</a>
     </p> </th>
 </tr>
-  
+</table>
+
 ### Tính năng show biểu đồ, map
 <table style="width:100%">
 <tr>
@@ -76,7 +77,8 @@ AIR Monitoring Application là ứng dụng di động giúp theo dõi và hiể
        <a href="https://github.com/bskhoa/Clothnest">View 2</a>
     </p> </th>
 </tr>
-  
+</table>
+
 ### Demo
 <p align="center">
   <a href="https://github.com/bskhoa/resource/blob/main/AIR%20Monitoring/video.mp4">View 1</a>
